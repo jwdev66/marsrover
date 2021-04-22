@@ -1,0 +1,19 @@
+{
+  "name": "marsrover",
+  "version": "1.0.0",
+  "main": "main.js",
+  "author": "jwdev66",
+  "license": "MIT",
+  "scripts": {
+    "test": "mocha",
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "chai": "^4.3.4",
+    "chai-arrays": "^2.2.0",
+    "chai-things": "^0.2.0",
+    "fs": "^0.0.1-security",
+    "mocha": "^8.3.2",
+    "readline-sync": "^1.4.10"
+  }
+}
