@@ -6,7 +6,7 @@ yarn install
 
 ### Test
 ```
-yarn lint
+yarn test
 ```
 
 ### Start
